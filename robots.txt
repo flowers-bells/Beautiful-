@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://melody-flowers.github.io/abcd/sitemap.xml
+Sitemap: https://flowers-bells.github.io/Beautiful-/sitemap.xml
